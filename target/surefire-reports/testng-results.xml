@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="6" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32776" started-at="2019-06-24T16:34:50Z" finished-at="2019-06-24T16:35:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32776" started-at="2019-06-24T16:34:50Z" finished-at="2019-06-24T16:35:23Z">
+      <class name="com.TestCases.Tc_01_ValidataSignIn">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.TestCases.Tc_01_ValidataSignIn@39ba5a14]" name="beforeSuite" is-config="true" duration-ms="797" started-at="2019-06-24T16:34:49Z" finished-at="2019-06-24T16:34:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.TestCases.Tc_01_ValidataSignIn@39ba5a14]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-06-24T16:34:50Z" finished-at="2019-06-24T16:34:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.TestCases.Tc_01_ValidataSignIn@39ba5a14]" name="beforeMethod" is-config="true" duration-ms="182" started-at="2019-06-24T16:34:50Z" finished-at="2019-06-24T16:34:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.TestCases.Tc_01_ValidataSignIn.Tc_01_ValidataSignIn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Tc_01_ValidataSignIn()[pri:0, instance:com.TestCases.Tc_01_ValidataSignIn@39ba5a14]" name="Tc_01_ValidataSignIn" duration-ms="14960" started-at="2019-06-24T16:34:50Z" finished-at="2019-06-24T16:35:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_01_ValidataSignIn -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.TestCases.Tc_01_ValidataSignIn@39ba5a14]" name="afterMethod" is-config="true" duration-ms="2000" started-at="2019-06-24T16:35:05Z" finished-at="2019-06-24T16:35:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.TestCases.Tc_01_ValidataSignIn@39ba5a14]" name="afterTest" is-config="true" duration-ms="590" started-at="2019-06-24T16:35:22Z" finished-at="2019-06-24T16:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.TestCases.Tc_01_ValidataSignIn@39ba5a14]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-06-24T16:35:23Z" finished-at="2019-06-24T16:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.TestCases.Tc_01_ValidataSignIn -->
+      <class name="com.TestCases.Tc_02_RegisterNewUser">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.TestCases.Tc_02_RegisterNewUser@511baa65]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2019-06-24T16:35:07Z" finished-at="2019-06-24T16:35:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.TestCases.Tc_02_RegisterNewUser.Tc_01_ValidataSignIn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Tc_01_ValidataSignIn()[pri:0, instance:com.TestCases.Tc_02_RegisterNewUser@511baa65]" name="Tc_01_ValidataSignIn" duration-ms="13010" started-at="2019-06-24T16:35:07Z" finished-at="2019-06-24T16:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_01_ValidataSignIn -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.TestCases.Tc_02_RegisterNewUser@511baa65]" name="afterMethod" is-config="true" duration-ms="2001" started-at="2019-06-24T16:35:20Z" finished-at="2019-06-24T16:35:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.TestCases.Tc_02_RegisterNewUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

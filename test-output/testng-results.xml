@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20951" started-at="2019-06-21T14:56:25Z" finished-at="2019-06-21T14:56:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20951" started-at="2019-06-21T14:56:25Z" finished-at="2019-06-21T14:56:46Z">
+      <class name="com.TestCases.Tc_02_RegisterNewUser">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.TestCases.Tc_02_RegisterNewUser@7d9d1a19]" name="beforeSuite" is-config="true" duration-ms="774" started-at="2019-06-21T14:56:24Z" finished-at="2019-06-21T14:56:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.TestCases.Tc_02_RegisterNewUser@7d9d1a19]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-06-21T14:56:25Z" finished-at="2019-06-21T14:56:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.TestCases.Tc_02_RegisterNewUser@7d9d1a19]" name="beforeMethod" is-config="true" duration-ms="132" started-at="2019-06-21T14:56:25Z" finished-at="2019-06-21T14:56:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.TestCases.Tc_02_RegisterNewUser.Tc_01_ValidataSignIn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Tc_01_ValidataSignIn()[pri:0, instance:com.TestCases.Tc_02_RegisterNewUser@7d9d1a19]" name="Tc_01_ValidataSignIn" duration-ms="18329" started-at="2019-06-21T14:56:25Z" finished-at="2019-06-21T14:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_01_ValidataSignIn -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.TestCases.Tc_02_RegisterNewUser@7d9d1a19]" name="afterMethod" is-config="true" duration-ms="2001" started-at="2019-06-21T14:56:43Z" finished-at="2019-06-21T14:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.TestCases.Tc_02_RegisterNewUser@7d9d1a19]" name="afterTest" is-config="true" duration-ms="466" started-at="2019-06-21T14:56:45Z" finished-at="2019-06-21T14:56:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.TestCases.Tc_02_RegisterNewUser@7d9d1a19]" name="afterSuite" is-config="true" duration-ms="1" started-at="2019-06-21T14:56:46Z" finished-at="2019-06-21T14:56:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.TestCases.Tc_02_RegisterNewUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
